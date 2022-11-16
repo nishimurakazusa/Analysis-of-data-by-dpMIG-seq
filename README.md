@@ -9,7 +9,7 @@ The files related to this analysis are stored in the directory "1.Analysis_of_th
 <br>
 In Polymorphism_detection_pipline.sh,<br>
 raw fastq files were trimmed using trimmomatic,<br>
-mapping using bwa, and variant calling using samtools mpileup.  
+mapped to reference genome using bwa, and variant calling was performed using samtools mpileup.  
 <br>
 In order for this script to work, the fastq file must be downloaded from SRA and placed in the "rawdata" folder.
 <br>
