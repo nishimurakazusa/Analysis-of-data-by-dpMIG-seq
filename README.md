@@ -7,7 +7,7 @@ On this page, we publish the code for the analysis of data obtained by dpMIG-seq
 
 The files related to this analysis are stored in the directory "1.Analysis_of_the_number_of_polymorphisms_between_primer_sets_using_tomato".  
 <br>
-In Polymorphism_detection_pipline.sh,<br>
+In polymorphism_detection_pipline.sh,<br>
 raw fastq files were trimmed using trimmomatic,<br>
 mapped to reference genome using bwa, and variant calling was performed using samtools mpileup.  
 <br>
