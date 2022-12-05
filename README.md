@@ -17,17 +17,14 @@ In order for this script to work, the fastq file must be downloaded from SRA and
 <br>
 Comparison_of_number_of_polymorphisms.R<br>
 <br>
-
-
-## 2. Analysis of common loci between different primer sets
 <br>
-In this folder, the commonality of polymorphisms between the two primer sets is analyzed using tomato as material.<br>
+<br>
+### Analysis of common loci between different primer sets
+<br>
 <br>
 １番の解析結果を入力として、多型の共通性を計算するスクリプトは、。
 
-
-
-## 3. Analysis of the sequence to which the primers annealed
+### Analysis of the sequence to which the primers annealed
 
 
 
