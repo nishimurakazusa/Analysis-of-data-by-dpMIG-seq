@@ -19,6 +19,7 @@ In order for this script to work, the fastq file must be downloaded from SRA and
 Comparison_of_number_of_polymorphisms.R<br>
 <br>
 <br>
+
 ### Analysis of common loci between different primer sets
 <br>
 <br>
