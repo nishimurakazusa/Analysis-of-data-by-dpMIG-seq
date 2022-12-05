@@ -4,10 +4,10 @@ On this page, we publish the code for the analysis of data obtained by dpMIG-seq
 
 
 ## 1. Performance comparison between dpMIG-seq and MIG-seq
-### Analysis of the number of polymorphisms between primer sets using tomato
+### 1-1. Analysis of the number of polymorphisms between primer sets using tomato
 
 <br>
-The files related to this analysis are stored in the directory "1.Analysis_of_the_number_of_polymorphisms_between_primer_sets_using_tomato".  
+The files related to this analysis are stored in the directory "1-1.Analysis_of_the_number_of_polymorphisms_between_primer_sets_using_tomato".  
 <br>
 In polymorphism_detection_pipline.sh,<br>
 raw fastq files were trimmed using trimmomatic,<br>
@@ -20,12 +20,12 @@ Comparison_of_number_of_polymorphisms.R<br>
 <br>
 <br>
 
-### Analysis of common loci between different primer sets
+### 1-2. Analysis of common loci between different primer sets
 <br>
 <br>
 １番の解析結果を入力として、多型の共通性を計算するスクリプトは、。
 
-### Analysis of the sequence to which the primers annealed
+### 1-3. Analysis of the sequence to which the primers annealed
 <br>
 
 ## 2. Evaluating the effectiveness of dpMIG-seq in crop species with various genome sizes
