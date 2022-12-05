@@ -26,12 +26,16 @@ Comparison_of_number_of_polymorphisms.R<br>
 
 ### Analysis of the sequence to which the primers annealed
 <br>
+
 ## 2. Evaluating the effectiveness of dpMIG-seq in crop species with various genome sizes
 <br>
+
 ## 3. Investigation of the amount of data required for effective application of dpMIG-seq in wheat
 <br>
+
 ## 4. Linkage analysis using segregating populations of rice, tomato, and melon
 <br>
+
 ## 5. Development of a method to apply dpMIG-seq without DNA purification 
 <br>
 
