@@ -24,11 +24,13 @@ Comparison_of_number_of_polymorphisms.R<br>
 <br>
 The script that calculates the commonality of polymorphisms using the results of analysis #1 as input is ~.
 <br>
+
 ### 1-3. Analysis of the sequence to which the primers annealed
 <br>
 　〜A script called ~ can be used to extract sequences from the observed sequence reads that the primers are thought to have annealed to. <br>
  The frequency of these sequences is then aggregated for each sequence, and a sub-analysis is performed to determine how many different types of sequences the primers annealed to for each primer set. <br>
  <br>
+ 
 ## 2. Performance evaluation of dpMIG-seq on various_crops
 <br>
 We are investigating the number of bases in the region that can be stably sequenced by dpMIG-seq and MIG-seq using 11 plant species. <br>
