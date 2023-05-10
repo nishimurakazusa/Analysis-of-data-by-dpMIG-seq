@@ -28,15 +28,38 @@ Comparison_of_number_of_polymorphisms.R<br>
 ### 1-3. Analysis of the sequence to which the primers annealed
 <br>
 
-## 2. Evaluating the effectiveness of dpMIG-seq in crop species with various genome sizes
+## 2. Performance evaluation of dpMIG-seq on various_crops
+<br>
 <br>
 
 ## 3. Investigation of the amount of data required for effective application of dpMIG-seq in wheat
 <br>
+<br>
+First, we obtained 2 Gb data volumes for two tetraploid wheat lines and calculated the change in the number of polymorphisms per data volume. <br>
+The script for this analysis is ~.<br>
+<br>
+Next, we demonstrated whether it could be used effectively to select a group during backcrossing. <br>
+The script for this analysis is ~.<br>
 
-## 4. Linkage analysis using segregating populations of rice, tomato, and melon
+## 4. Development of a method to apply dpMIG-seq without DNA purification 
+<br>
+Included is a script on evaluating the effectiveness of dpMIG-seq using lysate as a template. <br>
+First, we analyzed the number of detectable polymorphisms and commonality of polymorphisms between the five library construction methods in tomato and rice. <br> <br
+<br>
+<br> <br>Then, we analyzed the number of polymorphisms detected and the commonality of polymorphisms among the five library construction methods in tomato and rice.
+Next, we tested whether the results of PCA analysis were consistent with the polymorphisms detected by the five library construction methods. <br> <br>
+This analysis can be performed with a script called ~. <br>
+
+## 5. Linkage analysis using F2 populations of rice
+<br>
+This script performs polymorphism detection, linkage map construction (LEP-MAP3) and QTL analysis (R/qtl) on dpMIG-seq of rice F2 population. <br>
 <br>
 
-## 5. Development of a method to apply dpMIG-seq without DNA purification 
+## 6. Linkage analysis using a F2 populations of tomato
 <br>
+
+## 7. Linkage analysis using RILs of soy
+<br>
+
+
 
