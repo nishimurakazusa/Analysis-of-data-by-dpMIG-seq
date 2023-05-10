@@ -64,9 +64,10 @@ This script performs polymorphism detection, linkage map construction (LEP-MAP3)
 <br>
 This script performs polymorphism detection, linkage map construction (LEP-MAP3) and QTL analysis (R/qtl) on dpMIG-seq of tomato F2 population. <br>
 <br>
+
 ## 7. Linkage analysis using RILs of soy
 <br>
 This script performs polymorphism detection, linkage map construction (LEP-MAP3) and QTL analysis (R/qtl) on dpMIG-seq of soy RILs population. <br>
-
+<br>
 
 
