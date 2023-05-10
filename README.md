@@ -1,6 +1,6 @@
 # Analysis-of-data-by-dpMIG-seq
 <br>
-On this page, we publish the code for the analysis of data obtained by dpMIG-seq.
+On this page, we deposited the code for the analysis of data obtained by dpMIG-seq.
 
 
 ## 1. Performance comparison between dpMIG-seq and MIG-seq
