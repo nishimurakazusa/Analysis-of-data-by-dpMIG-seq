@@ -1,6 +1,8 @@
 # Analysis-of-data-by-dpMIG-seq
 <br>
 On this page, we deposited the code for the analysis of data obtained by dpMIG-seq.
+note that Github does not include raw sequence data, 
+so sequence data downloaded from SRA must be placed in the rawdata folder for further analysis.
 
 
 ## 1. Performance comparison between dpMIG-seq and MIG-seq
